@@ -23,4 +23,4 @@ If you find any issues with the solutions or have suggestions for improvements, 
 
 Thank you for visiting my CS50x Problem Set Solutions repository! Happy coding! 😊
 
-![Example Image](CS50x.pdf)
+![Example Image](CS50x.png)
